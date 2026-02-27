@@ -1,0 +1,11 @@
+{
+  "KPlugin": {
+    "Id": "org.artem.pixelsense",
+    "Name": "PixelSense",
+    "Description": "PixelSense futuristic touch theme",
+    "Version": "1.0",
+    "Author": "Artem",
+    "Category": "Plasma Look And Feel",
+    "EnabledByDefault": false
+  }
+}
